@@ -4,8 +4,17 @@ body {
 }
 
 #map {
-    position: absolute;
+    /*position: absolute;*/
     top: 0;
     bottom: 0;
     width: 70%;
+    height: 765px;
+}
+
+.container {
+  display: flex;
+}
+
+.sidebar {
+  width: 30%;
 }
